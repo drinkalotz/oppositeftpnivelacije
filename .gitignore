@@ -1,0 +1,8 @@
+*.exe
+*.csv
+/*.exe
+/*.csv
+*lock*
+/*lock*
+*.csv*
+/*.csv*
